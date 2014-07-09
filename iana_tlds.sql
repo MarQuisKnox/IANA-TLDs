@@ -3,12 +3,16 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: localhost
--- Generation Time: Jul 08, 2014 at 07:41 PM
+-- Generation Time: Jul 09, 2014 at 12:33 AM
 -- Server version: 5.1.69
 -- PHP Version: 5.3.3
 
 SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
+
+--
+-- Database: `iana_tld`
+--
 
 -- --------------------------------------------------------
 
@@ -588,14 +592,78 @@ INSERT INTO `iana_tld` (`id`, `tld`) VALUES(558, 'works');
 INSERT INTO `iana_tld` (`id`, `tld`) VALUES(559, 'ws');
 INSERT INTO `iana_tld` (`id`, `tld`) VALUES(560, 'wtc');
 INSERT INTO `iana_tld` (`id`, `tld`) VALUES(561, 'wtf');
-INSERT INTO `iana_tld` (`id`, `tld`) VALUES(572, 'xn');
-INSERT INTO `iana_tld` (`id`, `tld`) VALUES(562, 'xxx');
-INSERT INTO `iana_tld` (`id`, `tld`) VALUES(563, 'xyz');
-INSERT INTO `iana_tld` (`id`, `tld`) VALUES(564, 'yachts');
-INSERT INTO `iana_tld` (`id`, `tld`) VALUES(565, 'ye');
-INSERT INTO `iana_tld` (`id`, `tld`) VALUES(566, 'yokohama');
-INSERT INTO `iana_tld` (`id`, `tld`) VALUES(567, 'yt');
-INSERT INTO `iana_tld` (`id`, `tld`) VALUES(568, 'za');
-INSERT INTO `iana_tld` (`id`, `tld`) VALUES(569, 'zm');
-INSERT INTO `iana_tld` (`id`, `tld`) VALUES(570, 'zone');
-INSERT INTO `iana_tld` (`id`, `tld`) VALUES(571, 'zw');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(562, 'xn--3bst00m');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(563, 'xn--3ds443g');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(564, 'xn--3e0b707e');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(565, 'xn--45brj9c');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(566, 'xn--4gbrim');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(567, 'xn--55qw42g');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(568, 'xn--55qx5d');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(569, 'xn--6frz82g');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(570, 'xn--6qq986b3xl');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(571, 'xn--80adxhks');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(572, 'xn--80ao21a');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(573, 'xn--80asehdb');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(574, 'xn--80aswg');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(575, 'xn--90a3ac');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(576, 'xn--c1avg');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(577, 'xn--cg4bki');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(578, 'xn--clchc0ea0b2g2a9gcd');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(579, 'xn--czr694b');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(580, 'xn--czru2d');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(581, 'xn--d1acj3b');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(582, 'xn--fiq228c5hs');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(583, 'xn--fiq64b');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(584, 'xn--fiqs8s');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(585, 'xn--fiqz9s');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(586, 'xn--fpcrj9c3d');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(587, 'xn--fzc2c9e2c');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(588, 'xn--gecrj9c');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(589, 'xn--h2brj9c');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(590, 'xn--i1b6b1a6a2e');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(591, 'xn--io0a7i');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(592, 'xn--j1amh');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(593, 'xn--j6w193g');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(594, 'xn--kprw13d');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(595, 'xn--kpry57d');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(596, 'xn--kput3i');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(597, 'xn--l1acc');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(598, 'xn--lgbbat1ad8j');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(599, 'xn--mgb9awbf');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(600, 'xn--mgba3a4f16a');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(601, 'xn--mgbaam7a8h');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(602, 'xn--mgbab2bd');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(603, 'xn--mgbayh7gpa');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(604, 'xn--mgbbh1a71e');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(605, 'xn--mgbc0a9azcg');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(606, 'xn--mgberp4a5d4ar');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(607, 'xn--mgbx4cd0ab');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(608, 'xn--ngbc5azd');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(609, 'xn--nqv7f');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(610, 'xn--nqv7fs00ema');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(611, 'xn--o3cw4h');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(612, 'xn--ogbpf8fl');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(613, 'xn--p1ai');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(614, 'xn--pgbs0dh');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(615, 'xn--q9jyb4c');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(616, 'xn--rhqv96g');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(617, 'xn--s9brj9c');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(618, 'xn--ses554g');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(619, 'xn--unup4y');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(620, 'xn--wgbh1c');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(621, 'xn--wgbl6a');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(622, 'xn--xkc2al3hye2a');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(623, 'xn--xkc2dl3a5ee0h');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(624, 'xn--yfro4i67o');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(625, 'xn--ygbi2ammx');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(626, 'xn--zfr164b');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(627, 'xxx');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(628, 'xyz');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(629, 'yachts');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(630, 'ye');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(631, 'yokohama');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(632, 'yt');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(633, 'za');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(634, 'zm');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(635, 'zone');
+INSERT INTO `iana_tld` (`id`, `tld`) VALUES(636, 'zw');
